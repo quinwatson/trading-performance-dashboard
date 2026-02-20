@@ -1,0 +1,100 @@
+date,bias,reason_for_entry,instrument,entry_price,stop_price,target_price,exit_price,r_result,equity_r,notes,WIN RATE:,0.49,equity_curve,month,win_flag,day_of_week
+2025-08-01,neutral,"SMT of data lows, IFVG, DOL",ES,6310.75,6302.25,6323.0,6323.0,1.441176471,1.441176471,good trade following strategy,TOTAL TRADES:,100,1.441176471,2025-08,1,Friday
+2025-08-01,bearish,"Bias, SMT divergence of HTF imbalance, IFVG, DOL",NQ,23120.5,23174.0,23031.5,23031.5,1.663551402,1.663551402,good trade following strategy and risk management moving stops to BE after internal lows,TOTAL R:,8.213739846,3.104727873,2025-08,1,Friday
+2025-08-04,bullish,"Bias, SMT divergence of HTF imbalance, IFVG, DOL",NQ,23057.0,23039.25,23078.0,23078.0,1.183098592,1.183098592,good trade following strategy ,MAX DRAWDOWN (R):,-6,4.287826465,2025-08,1,Monday
+2025-08-05,bullish,"Bias, SMT divergence of HTF imbalance, IFVG, DOL",NQ,23385.75,23326.0,23462.0,23326.0,-1.0,-1.0,"systematic loss, still followed strategy ",100-TRADE COMPLETION:,100/100,3.287826465,2025-08,0,Tuesday
+2025-08-06,neutral,"SMT divergence, HTF imbalance, IFVG, targeting equilibrium of 1hr range",ES,6324.25,6315.5,6345.75,6324.5,0.028571429,0.028571429,stopped out break even after internal highs were taken out ,100-TRADE PROGRESS:,1,3.316397894,2025-08,1,Wednesday
+2025-08-06,neutral,"SMT divergence, HTF imbalance, IFVG, DOL ",ES,6339.0,6343.25,6331.75,6331.75,1.705882353,1.705882353,good trade following strategy ,,,5.022280247,2025-08,1,Wednesday
+2025-08-07,neutral,"SMT of data highs, IFVG, DOL",ES,6410.25,6413.5,6405.5,6405.5,1.461538462,1.461538462,good trade following strategy ,,,6.483818709,2025-08,1,Thursday
+2025-08-08,neutral,"SMT divergence, HTF imbalance, IFVG, DOL ",NQ,23568.0,23583.75,23503.75,23583.75,-1.0,-1.0,systematic loss but could have used better risk management by going to break even ,,,5.483818709,2025-08,0,Friday
+2025-08-11,bearish,"Bias, SMT divergence of HTF imbalance, IFVG, DOL",ES,6415.75,6420.25,6408.5,6408.5,1.611111111,1.611111111,good trade following strategy ,,,7.094929820000001,2025-08,1,Monday
+2025-08-12,bullish,"Bias, SMT divergence of data lows, HTF imbalance, IFVG, DOL (REH)",ES,6422.25,6408.5,6442.0,6442.0,1.436363636,1.436363636,good trade following strategy ,,,8.531293456,2025-08,1,Tuesday
+2025-08-13,neutral,"SMT divergence, IFVG, DOL (unmitiged HTF imbalance) ",NQ,23994.0,24006.75,23977.0,24006.75,-1.0,-1.0,systematic loss,,,7.531293456,2025-08,0,Wednesday
+2025-08-14,bullish,"SMT of HTF imbalance, liquidity sweep of data lows, IFVG, DOL (targeting data highs)",ES,6466.75,6449.5,6491.75,6487.25,1.188405797,1.188405797,closed early as NQ took out target price,,,8.719699253,2025-08,1,Thursday
+2025-08-15,bearish,"Bias, SMT of HTF highs, SMT of data highs, IFVG, DOL",NQ,23901.0,23913.0,23885.0,23913.0,-1.0,-1.0,systematic loss,,,7.719699253,2025-08,0,Friday
+2025-08-15,bearish,"Bias, SMT of HTF highs, SMT of data highs, IFVG, DOL",NQ,23905.0,23915.5,23885.0,23889.0,1.523809524,1.523809524,closed early as ES took out data lows first ,,,9.243508777,2025-08,1,Friday
+2025-08-19,neutral,"SMT of HTF lows, IFVG, DOL (unmitigated HTF imbalance)",NQ,23788.0,23764.5,23816.25,23764.5,-1.0,-1.0,systematic loss,,,8.243508777,2025-08,0,Tuesday
+2025-08-19,neutral,"SMT divergence, IFVG, DOL ",ES,6463.25,6461.5,6469.0,6463.5,0.142857143,0.142857143,stopped out break even after internal highs were taken out ,,,8.386365920000001,2025-08,1,Tuesday
+2025-08-19,bullish,"SMT divergence, IFVG, strong reaction, DOL (REH)",ES,6465.75,6463.0,6469.0,6463.0,-1.0,-1.0,systematic loss,,,7.386365920000001,2025-08,0,Tuesday
+2025-08-20,bearish,"Bias, HTF imbalance, SMT divergence, retracement to LTF imbalance, rejection candle, DOL",NQ,23371.0,23402.5,23329.0,23329.0,1.333333333,1.333333333,good trade following system,,,8.719699253000002,2025-08,1,Wednesday
+2025-08-21,bullish,"Bias, SMT divergence, HTF imbalance, liquidity sweep, IFVG, DOL",NQ,23248.0,23204.0,23333.75,23204.0,-1.0,-1.0,systematic loss ,,,7.719699253000002,2025-08,0,Thursday
+2025-08-21,bullish,"Bias, SMT divergence, HTF imbalance, liquidity sweep, IFVG, DOL",NQ,23260.0,23217.75,23333.5,23217.75,-1.0,-1.0,systematic loss,,,6.719699253000002,2025-08,0,Thursday
+2025-08-22,bullish,"Bias, SMT divergence of HTF imbalance, liquidity sweep, IFVG, DOL (REH)",NQ,23253.0,23240.75,23274.75,23262.75,0.795918367,0.795918367,closed early as ES took TP first ,,,7.515617620000001,2025-08,1,Friday
+2025-08-25,neutral,"SMT divegence inside HTF imbalance, IFVG, DOL ",NQ,23479.5,23462.0,23501.0,23493.75,0.814285714,0.814285714,closed early as ES took TP first ,,,8.329903334,2025-08,1,Monday
+2025-08-25,bullish,"Bias, SMT divergence inside HTF imbalance, liquidity sweep, IFVG, DOL (unmitigated imbalance)",NQ,23498.0,23468.5,23536.75,23468.5,-1.0,-1.0,systematic loss,,,7.329903334000001,2025-08,0,Monday
+2025-08-26,beairsh,"Bias, SMT divergence, HTF imbalance, IFVG, DOL ",NQ,23471.25,23484.5,23439.5,23484.5,-1.0,-1.0,"conditions were not great after trade entry, could have looked to close until further confirmation ",,,5.329903334000001,2025-08,0,Tuesday
+2025-08-26,bearish,"Bias, SMT divergence of HTF highs inside of HTF imbalance, IFVG, DOL",NQ,23459.0,23480.25,23415.25,23480.25,-1.0,-1.0,should have seen REH as an indicator price will likely retrace back,,,6.329903334000001,2025-08,0,Tuesday
+2025-08-27,bullish,"Bias, HTF imbalance, SMT divergence, IFVG, DOL (REH)",ES,6487.0,6478.0,6496.25,6496.25,1.027777778,1.027777778,good trade following system,,,6.357681112000001,2025-08,1,Wednesday
+2025-08-29,bearish,"Bias, SMT divergence of HTF imbalance, liquidity sweep of data highs, IFVG, DOL",NQ,23636.75,23652.0,23612.5,23612.5,1.590163934,1.590163934,good trade following system,,,7.947845046000001,2025-08,1,Friday
+2025-09-03,neutral,"SMT divergence, IFVG, strong DOL (unmitigated imbalance and data highs)",ES,6392.25,6362.5,6425.0,6425.0,1.100840336,1.100840336,good trade following system,,,9.048685382000002,2025-09,1,Wednesday
+2025-09-03,bullish,"Bias, SMT divergence of HTF imbalance, IFVG, DOL",NQ,23431.75,23416.25,23458.5,23416.25,-1.0,-1.0,"stops too tight, did not invailidate set up ",,,8.048685382000002,2025-09,0,Wednesday
+2025-09-03,bullish,"Bias, SMT divergence of HTF imbalance, IFVG, DOL",NQ,23429.0,23406.75,23458.5,23429.75,0.033707865,0.033707865,got stopped out at break even with rejection candle near TP,,,8.082393247000002,2025-09,1,Wednesday
+2025-09-05,neutral,"SMT divergence of HTF imbalance, IFVG, DOL (REH)",ES,6462.5,6456.25,6474.75,6474.75,1.96,1.96,good trade following system,,,10.042393247000003,2025-09,1,Friday
+2025-09-08,neutral,"SMT divergence, IFVG, DOL (unmitiged HTF imbalance) ",NQ,23762.75,23791.5,23724.5,23791.5,-1.0,-1.0,systematic loss,,,9.042393247000003,2025-09,0,Monday
+2025-09-09,neutral,"SMT divergence, HTF imbalance, IFVG, DOL (REH)",NQ,23835.25,23800.25,23887.75,23800.25,-1.0,-1.0,systematic loss,,,8.042393247000003,2025-09,0,Tuesday
+2025-09-10,bullish,"Bias, SMT divergence of data lows, HTF imbalance, IFVG, DOL (data highs)",ES,6556.25,6550.0,6565.25,6550.0,-1.0,-1.0,"stops too tight, did not invailidate set up ",,,7.042393247000003,2025-09,0,Wednesday
+2025-09-11,bullish,"Bias, SMT divergence of data lows, HTF imbalance, IFVG, DOL (data highs/REH)",ES,6547.5,6538.75,6565.25,6538.75,-1.0,-1.0,systematic loss,,,6.042393247000003,2025-09,0,Thursday
+2025-09-11,neutral,"SMT divergence of data highs, IFVG, DOL (data lows)",ES,6557.75,6562.5,6535.5,6557.5,0.052631579,0.052631579,stopped at BE due to SMT of internal lows,,,6.095024826000003,2025-09,1,Thursday
+2025-09-12,neutral,"SMT divergence, IFVG, DOL (first presented HTF imbalance)",ES,6587.75,6596.0,6576.0,6596.0,-1.0,-1.0,systematic loss,,,4.095024826000003,2025-09,0,Friday
+2025-09-12,neutral,"SMT of HTF highs, IFVG, DOL (internal lows and data lows)",NQ,23968.5,24018.75,23839.25,24018.75,-1.0,-1.0,systematic loss,,,5.095024826000003,2025-09,0,Friday
+2025-09-13,neutral,"SMT divergence, IFVG, DOL (first presented HTF imbalance)",ES,6592.25,6600.25,6576.0,6600.25,-1.0,-1.0,systematic loss,,,3.095024826000003,2025-09,0,Saturday
+2025-09-17,bearish,"Bias, SMT divergence, HTF imbalance, IFVG, DOL ",NQ,24477.0,24494.0,24456.25,24456.25,1.220588235,1.220588235,good trade following system ,,,4.315613061000003,2025-09,1,Wednesday
+2025-09-18,neutral,"SMT divegence, IFVG, DOL (unmitigated first presented HTF imbalance)",ES,6707.25,6717.0,6698.0,6698.0,0.948717949,0.948717949,good trade following system ,,,5.264331010000003,2025-09,1,Thursday
+2025-09-18,beaish,"SMT HTF, SMT of HTF imbalance, IFVG, DOL",ES,6687.0,6694.25,6679.75,6679.75,1.0,1.0,good trade following system ,,,6.264331010000003,2025-09,1,Thursday
+2025-09-19,bullish,"Bias, SMT divergence, HTF imbalance, IFVG, DOL ",NQ,24690.25,24637.0,24762.75,24762.75,1.361502347,1.361502347,good trade following system ,,,7.625833357000003,2025-09,1,Friday
+2025-09-19,bullish,"Bias, SMT divergence, HTF imbalance, IFVG, DOL ",ES,6706.0,6702.75,6711.0,6702.75,-1.0,-1.0,systematic loss,,,6.625833357000003,2025-09,0,Friday
+2025-09-19,bullish,"Bias, SMT divergence, HTF imbalance, liquidity sweep, IFVG, DOL ",ES,6704.25,6702.75,6711.0,6708.625,2.916666667,2.916666667,TP1 & TP2 hit,,,9.542500024000002,2025-09,1,Friday
+2025-09-22,neutal,"HTF imbalance, SMT divergence, IFVG, DOL",NQ,24777.0,24759.75,24807.75,24807.75,1.782608696,1.782608696,good trade following system ,,,11.325108720000003,2025-09,1,Monday
+2025-09-23,bullish,"Bias, SMT divergence, HTF imbalance, IFVG, DOL (REH)",ES,6754.0,6751.5,6756.75,6751.5,-1.0,-1.0,systematic loss,,,10.325108720000003,2025-09,0,Tuesday
+2025-09-23,bullish,"Bias, SMT divergence, HTF imbalance, IFVG, DOL (REH)",ES,6754.75,6752.75,6756.75,6752.75,-1.0,-1.0,systematic loss,,,9.325108720000003,2025-09,0,Tuesday
+2025-09-24,bearish,"Bias, HTF imbalance, SMT divergence, IFVG, DOL",NQ,24884.25,24912.75,24846.5,24846.5,1.324561404,1.324561404,good trade following system,,,9.649670124000004,2025-09,1,Wednesday
+2025-09-24,bullish,"Bias, SMT of data highs, HTF imbalance, IFVG, DOL",ES,6751.75,6750.0,6756.75,6750.0,-1.0,-1.0,systematic loss,,,8.325108720000003,2025-09,0,Wednesday
+2025-09-26,bearish,"Bias, HTF imbalance, SMT divergence, IFVG, DOL",ES,6659.75,6673.25,6631.25,6673.25,-1.0,-1.0,systematic loss,,,8.649670124000004,2025-09,0,Friday
+2025-09-26,bearish,"Bias, HTF imbalance, SMT divergence, IFVG, DOL",ES,6645.5,6659.75,6631.25,6631.25,1.0,1.0,good trade following system,,,9.649670124000004,2025-09,1,Friday
+2025-09-27,bullish,"Bias, SMT divergence, IFVG, DOL (REH)",ES,6683.25,6669.5,6705.25,6705.25,1.6,1.6,good trade following system,,,11.249670124000003,2025-09,1,Saturday
+2025-09-29,neutral,"HTF imbalance, SMT divergence, liquidity sweep, IFVG, DOL",NQ,24887.75,24911.0,24853.75,24853.75,1.462365591,1.462365591,good trade following system,,,12.712035715000003,2025-09,1,Monday
+2025-10-01,bullish,"Bias, SMT divergence, HTF imbalance, IFVG, DOL (REH)",ES,6709.75,6703.75,6717.0,6703.75,-1.0,-1.0,systematic loss,,,11.712035715000003,2025-10,0,Wednesday
+2025-10-03,neutral,"HTF imbalance, SMT divergence, IFVG, DOL",ES,6765.0,6767.25,6761.75,6761.75,1.444444444,1.444444444,good trade following system,,,13.156480159000003,2025-10,1,Friday
+2025-10-03,neutral,"SMT divergence, HTF imbalance, IFVG, DOL (ATH)",NQ,25044.0,25010.0,25180.25,25113.6875,2.049632353,2.049632353,TP1 & TP2 hit,,,15.206112512000002,2025-10,1,Friday
+2025-10-04,bullish,"SMT divergence, HTF imbalance, IFVG, DOL (ATH)",ES,6782.0,6776.75,6788.25,6788.25,1.19047619,1.19047619,good trade following system,,,16.396588702000003,2025-10,1,Saturday
+2025-10-06,neutral,"SMT divergence, liquidity sweep, IFVG, DOL (unmitiged HTF imbalance) ",ES,6791.25,6795.25,6781.5,6784.25,1.75,1.75,TP1 & TP2 hit,,,18.146588702000003,2025-10,1,Monday
+2025-10-07,bullish,"Bias, SMT of HTF imbalance, IFVG, DOL",NQ,25238.75,25220.0,25275.0,25220.0,-1.0,-1.0,systematic loss,,,17.146588702000003,2025-10,0,Tuesday
+2025-10-08,bearish,"Bias, SMT divergence, HTF imbalance, IFVG, DOL (REL)",NQ,25066.0,25101.0,25026.25,25101.0,-1.0,-1.0,systematic loss,,,16.146588702000003,2025-10,0,Wednesday
+2025-10-09,bullish,"Bias, HTF imbalance, SMT divergence, IFVG, DOL (ATH)",ES,6801.75,6797.0,6812.25,6802.0,0.052631579,0.052631579,BE due to SMT of internal highs,,,16.199220281000002,2025-10,1,Thursday
+2025-10-09,bullish,"Bias, HTF imbalance, SMT divergence, IFVG, DOL (ATH)",ES,6805.25,6802.5,6809.5,6802.5,-1.0,-1.0,systematic loss,,,15.199220281000002,2025-10,0,Thursday
+2025-10-10,bullish,"Bias, HTF imbalance, SMT divergence, IFVG, DOL (unmitigated HTF imbalance)",NQ,25250.5,25228.75,25288.75,25228.75,-1.0,-1.0,systematic loss,,,14.199220281000002,2025-10,0,Friday
+2025-10-15,neutral,"SMT divergence, LTF imbalance, IFVG, DOL (REL & unmitigated HTF imbalance)",NQ,24755.0,24816.25,24685.75,24816.25,-1.0,-1.0,systematic loss,,,13.199220281000002,2025-10,0,Wednesday
+2025-10-15,bearish,"SMT divergence, LTF imbalance, IFVG, DOL (REL & unmitigated HTF imbalance)",NQ,24801.0,24831.5,24685.5,24800.75,0.008196721,0.008196721,BE due to reaction of imbalance,,,13.207417002000001,2025-10,1,Wednesday
+2025-10-15,neutral,"SMT divergence, HTF imbalance, IFVG, DOL",NQ,24941.5,25003.5,24870.25,25003.5,-1.0,-1.0,systematic loss,,,12.207417002000001,2025-10,0,Wednesday
+2025-10-16,neutral,"HTF imbalance, SMT divergence, IFVG, DOL (unmitigated imbalance)",ES,6729.0,6740.0,6717.0,6740.0,-1.0,-1.0,should have moved stops to BE as TP was a tick away,,,11.207417002000001,2025-10,0,Thursday
+2025-10-17,neutral,"HTF imbalance, SMT divergence, IFVG, DOL (unmitigated imbalance)",ES,6736.0,6747.75,6717.25,6717.25,1.595744681,1.595744681,good trade following system,,,12.803161683,2025-10,1,Friday
+2025-10-18,neutral,"HTF imbalance, SMT divergence, IFVG, DOL",NQ,24830.25,24748.5,24960.75,24960.75,1.596330275,1.596330275,good trade following system,,,14.399491958,2025-10,1,Saturday
+2025-10-21,bullish,"Bias, HTF imbalance, SMT divergence, IFVG, DOL (REH & ATH)",ES,6774.75,6772.0,6811.25,6772.0,-1.0,-1.0,systematic loss,,,13.399491958,2025-10,0,Tuesday
+2025-10-22,bullish,"Bias, HTF imbalance, SMT divergence, IFVG, DOL (REH & ATH)",ES,6773.0,6768.0,6812.0,6777.125,0.825,0.825,TP1 hit then stopped BE,,,14.224491958,2025-10,1,Wednesday
+2025-10-23,neutral,"first present HTF imbalance, SMT divergence, liquidity sweep, IFVG, DOL (REH)",ES,6718.75,6687.25,6781.5,6781.5,1.992063492,1.992063492,good trade following system,,,15.21655545,2025-10,1,Thursday
+2025-10-23,neutral,"first present HTF imbalance, SMT divergence, IFVG, DOL (REH)",ES,6735.5,6712.5,6781.5,6712.5,-1.0,-1.0,needed to wait for liquidity to be swept,,,13.224491958,2025-10,0,Thursday
+2025-10-24,neutral,"SMT divergence of data highs, IFVG, DOL (data lows)",ES,6812.75,6829.25,6792.5,6829.25,-1.0,-1.0,systematic loss,,,14.21655545,2025-10,0,Friday
+2025-10-25,neutral,"SMT divergence of data highs, IFVG, DOL ",ES,6831.25,6837.5,6810.25,6831.0,0.04,0.04,stopped out BE after internal lows were taken out ,,,14.256555449999999,2025-10,1,Saturday
+2025-10-25,neutral,"SMT divergence of data highs, IFVG, DOL ",ES,6822.75,6837.5,6792.5,6837.5,-1.0,-1.0,trade now invailidated after data highs were taken out on both ES and NQ,,,13.256555449999999,2025-10,0,Saturday
+2025-10-29,bullish,"Bias, HTF imbalance, SMT divergence, IFVG, DOL (ATH)",NQ,26070.75,26051.75,26094.75,26051.75,-1.0,-1.0,systematic loss,,,12.256555449999999,2025-10,0,Wednesday
+2025-10-29,bullish,"Bias, HTF imbalance, SMT divergence, IFVG, DOL (ATH)",NQ,26040.25,26001.0,26094.5,26094.5,1.382165605,1.382165605,good trade following system,,,13.638721054999998,2025-10,1,Wednesday
+2025-10-29,bullish,"Bias, HTF imbalance, SMT divergence, IFVG, DOL (REH)",NQ,26276.0,26254.75,26309.25,26299.5,1.105882353,1.105882353,closed early as ES took TP first ,,,14.744603407999998,2025-10,1,Wednesday
+2025-11-01,neutral,"SMT divergence, IFVG, DOL (unmitiged HTF imbalance) ",ES,6878.25,6859.5,6899.5,6899.5,1.133333333,1.133333333,good trade following system,,,15.877936740999997,2025-11,1,Saturday
+2025-11-01,neutral,"HTF imbalance, SMT divergence, IFVG, DOL ",NQ,25992.75,26094.0,25888.75,26094.0,-1.0,-1.0,systematic loss,,,14.877936740999997,2025-11,0,Saturday
+2025-11-03,neutral,"HTF imbalance, SMT divergence, IFVG, DOL (ATH)",NQ,26163.5,26147.5,26182.0,26147.5,-1.0,-1.0,systematic loss,,,15.185629049,2025-11,0,Monday
+2025-11-03,neutral,"SMT divergence, IFVG, DOL (unmitiged HTF imbalance) ",ES,6897.5,6900.75,6893.25,6893.25,1.307692308,1.307692308,good trade following system,,,16.185629049,2025-11,1,Monday
+2025-11-05,neutral,"SMT divergence, IFVG, DOL (HTF imbalance)",ES,6812.25,6794.75,6838.0,6794.75,-1.0,-1.0,systematic loss,,,14.185629049,2025-11,0,Wednesday
+2025-11-05,neutral,"SMT divergence, liquidity sweep, IFVG, DOL (unmitiged HTF imbalance) ",ES,6812.5,6794.75,6838.0,6794.75,-1.0,-1.0,systematic loss,,,13.185629049,2025-11,0,Wednesday
+2025-11-06,bullish,"Bias, HTF imbalance, SMT divergence, IFVG, DOL",ES,6797.5,6789.0,6807.75,6807.75,1.205882353,1.205882353,good trade following system,,,14.391511401999999,2025-11,1,Thursday
+2025-11-07,bullish,"Bias, SMT divergence, IVFG, DOL (imbalance)",ES,6814.25,6807.0,6843.5,6807.0,-1.0,-1.0,systematic loss,,,13.391511401999999,2025-11,0,Friday
+2025-11-10,bullish,"Bias, HTF imbalance, SMT divergence, IFVG, DOL",ES,6817.5,6813.0,6823.5,6813.0,-1.0,-1.0,systematic loss,,,12.391511401999999,2025-11,0,Monday
+2025-11-10,bullish,"Bias, HTF imbalance, SMT divergence, IFVG, DOL",NQ,25542.25,25520.0,25569.5,25520.0,-1.0,-1.0,wicked out,,,11.391511401999999,2025-11,0,Monday
+2025-11-10,bullish,"Bias, HTF imbalance, SMT divergence, IFVG, DOL",NQ,25543.75,25528.0,25569.5,25528.0,-1.0,-1.0,systematic loss,,,10.391511401999999,2025-11,0,Monday
+2025-11-12,neutral,"SMT divergence, IFVG, DOL (unmitiged HTF imbalance) ",NQ,25793.75,25805.5,25777.75,25777.75,1.361702128,1.361702128,good trade following system,,,10.753213529999998,2025-11,1,Wednesday
+2025-11-12,bullish,"Bias, SMT divergence out of HTF imbalance, IFVG, DOL (REH)",ES,6896.5,6894.5,6900.5,6894.5,-1.0,-1.0,systematic loss,,,9.753213529999998,2025-11,0,Wednesday
+2025-11-12,bullish,"Bias, SMT divergence out of HTF imbalance, IFVG, DOL (REH)",NQ,25801.75,25792.0,25830.0,25792.0,-1.0,-2.0,systematic loss,,,9.391511401999999,2025-11,0,Wednesday
+2025-11-14,neutral,"SMT divergence, IFVG, DOL (HTF imbalance)",ES,6697.75,6688.25,6715.0,6688.25,-1.0,-5.0,systematic loss,,,6.753213529999998,2025-11,0,Friday
+2025-11-14,neutral,"SMT divergence, IFVG, DOL (HTF imbalance)",NQ,24720.25,24833.5,24833.5,24833.5,-1.0,-6.0,systematic loss,,,5.753213529999998,2025-11,0,Friday
+2025-11-14,neutral,"SMT divergence of NWOG, IFVG, DOL (REH)",ES,6796.75,6787.5,6809.25,6787.5,-1.0,-3.0,systematic loss,,,8.753213529999998,2025-11,0,Friday
+2025-11-14,neutral,"SMT divergence of NWOG, IFVG, DOL (REH)",ES,6799.5,6791.5,6809.25,6791.5,-1.0,-4.0,systematic loss,,,7.753213529999998,2025-11,0,Friday
+2025-11-18,beairsh,"Bias, SMT divergence, HTF imbalance, IFVG, DOL",ES,6746.25,6765.25,6726.5,6726.5,1.039473684,-4.960526316,good trade following system,,,6.792687213999998,2025-11,1,Tuesday
