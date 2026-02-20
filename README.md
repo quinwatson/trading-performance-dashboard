@@ -2,65 +2,113 @@
 Trade Frequency vs Performance Project 
 # Trading Performance Analysis — Trade Frequency vs Results
 
+# Trading Performance Dashboard  
+**Trade Frequency vs Performance**
+
 ## Overview
-This project analyzes my trading backtest data to study the relationship between **trade frequency** and **performance**.
 
-The main question:
-**Does trading more frequently reduce overall performance and consistency?**
+This project analyzes how **trade frequency impacts trading performance** using real backtesting data tracked in Excel, cleaned in Python (pandas), and visualized in Tableau.
 
-Using Python for data preparation and Tableau for visualization, I built a dashboard to compare:
-- Original equity curve vs a 1 trade/day cap
-- Average R by trades per day
-- Total R by trades per day
-- Performance by instrument
-- Performance by day of week
-- A focused breakdown of the worst-performing month
+The core question:
+> Does trading more often improve results — or hurt them?
 
-## Key Insight
-Capping trades per day improves consistency and total performance.  
-As trade frequency increases, both **average R** and **total R** decline, indicating that **overtrading negatively impacts results** in this dataset.
+The analysis shows that **capping trades per day improves consistency and overall performance**, while higher trade frequency leads to worse total R and more volatile equity curves.
 
-## Data & Workflow
+This project demonstrates:
+- Data cleaning and feature engineering in **Python (pandas)**
+- Working with **raw trading logs from Excel**
+- Exporting clean data for **Tableau visualization**
+- Building a **business-focused analytical dashboard**
+- Communicating insights clearly for decision-making
 
-**Data Source:**
-- Raw trade logs recorded in Excel during live backtesting
+---
 
-**Data Cleaning & Preparation (Python / pandas):**
-- Imported raw Excel/CSV data
-- Cleaned and standardized date formats
-- Removed invalid / missing records
-- Calculated:
-  - Trades per day
-  - R-multiples
-  - Equity curve
-  - Aggregated performance metrics
-- Exported a clean dataset for visualization
+## Key Findings
 
-**Analysis & Visualization (Tableau):**
-- Built a multi-view dashboard including:
-  - Equity curve comparison (original vs 1 trade/day cap)
-  - Average R vs trades per day
-  - Total R vs trades per day
-  - Instrument performance
-  - Day-of-week performance
-  - Worst-month deep dive
+- 📉 **More trades per day = worse total performance**
+- 📈 **1 trade per day cap produces smoother, more consistent equity growth**
+- ⚠️ Higher trade frequency increases drawdowns and volatility
+- 📊 Certain **days of the week and instruments** perform significantly better than others
+
+---
+
+## Files in This Repository
+
+- `Dashboard 1.pdf`  
+  → Final Tableau dashboard export (ready to view)
+
+- `trades_clean.csv`  
+  → Cleaned dataset used in Tableau
+
+- `trades_clean_csv.ipynb`  
+  → Python (pandas) notebook used to:
+  - Load raw trade data
+  - Clean and transform fields
+  - Create features like trades per day
+  - Export the clean CSV for Tableau
+
+- `README.md`  
+  → Project documentation (this file)
+
+---
+
+## Data Pipeline
+
+1. **Raw data** tracked in Excel during live backtesting
+2. **Python (pandas)** used to:
+   - Clean trade records
+   - Standardize dates and results
+   - Create derived metrics (e.g. trades per day)
+3. **Clean CSV exported** from Python
+4. **Tableau** used to:
+   - Build equity curves
+   - Compare capped vs uncapped strategies
+   - Analyze performance by trade frequency, instrument, and day of week
+5. **Dashboard exported to PDF** for sharing and portfolio use
+
+---
 
 ## Tools Used
-- **Python** (pandas) — data cleaning, transformation, feature engineering
-- **Excel** — raw data logging during backtesting
-- **Tableau** — analysis and dashboard visualization
 
-## Files
-- `Trading_Performance_Dashboard.pdf` — Final dashboard export
-- (Optional) `data/` — Raw and/or cleaned datasets
+- **Python** (pandas, numpy)
+- **Jupyter / Google Colab**
+- **Excel** (raw data tracking)
+- **Tableau** (data visualization & dashboarding)
+- **GitHub** (project version control & portfolio hosting)
+
+---
+
+## Dashboard Preview
+
+Open `Dashboard 1.pdf` to view the full interactive layout and analysis.
+
+The dashboard includes:
+- Original vs 1-trade-per-day equity curves
+- Trades per day vs total R
+- Average R vs trade frequency
+- Instrument performance comparison
+- Performance by day of week
+- November subset analysis
+
+---
 
 ## Why This Project Matters
-This project demonstrates:
-- End-to-end data workflow (raw data → clean dataset → analysis → insights)
-- Practical performance analysis and risk/behavior evaluation
-- Ability to use Python for data preparation and Tableau for storytelling
-- Data-driven decision making applied to trading performance
 
-This is relevant for:
-- Junior trading / trading assistant roles
-- Data / business / performance analyst roles
+This project shows:
+- Practical data cleaning skills in Python
+- Real-world performance analysis (not toy data)
+- Ability to connect **data → insight → decision**
+- Clear communication of trading and performance metrics
+
+It’s designed to reflect the kind of analysis used in:
+- Trading performance reviews
+- Strategy optimization
+- Risk management and overtrading control
+- Data-driven decision-making environments
+
+---
+
+## Author
+
+Quin Watson  
+Project: *Trading Performance Dashboard – Trade Frequency vs Performance*
