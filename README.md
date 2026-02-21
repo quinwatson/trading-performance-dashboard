@@ -1,5 +1,4 @@
-# trading-performance-dashboard
-Trade Frequency vs Performance Project 
+
 # Trading Performance Analysis — Trade Frequency vs Results
 
 # Trading Performance Dashboard  
